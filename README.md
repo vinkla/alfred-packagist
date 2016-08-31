@@ -1,4 +1,4 @@
-# alfred-composer [![Build Status](https://travis-ci.org/sindresorhus/alfred-npms.svg?branch=master)](https://travis-ci.org/sindresorhus/alfred-npms)
+# alfred-composer [![Build Status](https://img.shields.io/travis/vinkla/alfred-composer/master.svg?style=flat)](https://travis-ci.org/vinkla/alfred-composer)
 
 [Alfred 3](https://www.alfredapp.com) workflow to search for [Composer](https://getcomposer.org/) packages with [Packagist](https://packagist.org/).
 
