@@ -8,7 +8,7 @@ Packagist is the main [Composer](https://getcomposer.org/) repository. It aggreg
 
 ## Install
 
-[Install the workflow.](https://github.com/vinkla/alfred-composer/releases/download/1.0.0/composer.alfredworkflow)
+[Download and install the workflow.](https://github.com/vinkla/alfred-composer/releases/download/1.0.0/composer.alfredworkflow)
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
