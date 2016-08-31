@@ -1,6 +1,6 @@
 # alfred-composer [![Build Status](https://travis-ci.org/sindresorhus/alfred-npms.svg?branch=master)](https://travis-ci.org/sindresorhus/alfred-npms)
 
-[Alfred 3](https://www.alfredapp.com) workflow to search for Composer packages with [packagist.org](https://packagist.org/)
+[Alfred 3](https://www.alfredapp.com) workflow to search for Composer packages with [Packagist](https://packagist.org/).
 
 Packagist is the main Composer repository. It aggregates public PHP packages installable with Composer.
 
@@ -15,7 +15,7 @@ Packagist is the main Composer repository. It aggregates public PHP packages ins
 
 ## Usage
 
-In Alfred, type `composer`, <kbd>Enter</kbd>, and your query, to search for packages.
+In Alfred, type `composer` or `packagist`, <kbd>Enter</kbd>, and your query, to search for packages.
 
 Select a package and press <kbd>Enter</kbd> to go to its GitHub repo.<br>
 Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to go to its Packagist page.<br>
