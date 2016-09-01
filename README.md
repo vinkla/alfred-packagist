@@ -25,8 +25,7 @@ Press <kbd>Shift</kbd> to view its README in Quick Look.
 ## Related
 
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred
-- [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with npms.io
-- [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
+- [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator
 
 
 ## License
