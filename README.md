@@ -17,9 +17,9 @@
 
 In Alfred, type `composer` or `packagist`, <kbd>Enter</kbd>, and your query, to search for packages.
 
-Select a package and press <kbd>Enter</kbd> to go to its GitHub repo.<br>
-Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to go to its Packagist page.<br>
-Press <kbd>Shift</kbd> to view its README in Quick Look.
+- Select a package and press <kbd>Enter</kbd> to go to its GitHub repo.<br>
+- Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to go to its Packagist page.<br>
+- Press <kbd>Shift</kbd> to view its README in Quick Look.
 
 
 ## Related
