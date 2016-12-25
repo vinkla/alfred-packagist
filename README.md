@@ -12,7 +12,6 @@
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
-
 ## Usage
 
 In Alfred, type `composer` or `packagist`, <kbd>Enter</kbd>, and your query, to search for packages.
@@ -21,12 +20,10 @@ In Alfred, type `composer` or `packagist`, <kbd>Enter</kbd>, and your query, to 
 - Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to go to its Packagist page.<br>
 - Press <kbd>Shift</kbd> to view its README in Quick Look.
 
-
 ## Related
 
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred
 - [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator
-
 
 ## License
 
