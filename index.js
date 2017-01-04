@@ -1,4 +1,5 @@
 'use strict';
+
 const alfy = require('alfy');
 
 alfy.fetch('https://packagist.org/search.json', {
