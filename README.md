@@ -2,9 +2,9 @@
 
 > [Alfred](https://www.alfredapp.com) workflow to search for [PHP](https://secure.php.net) packages with [Packagist](https://packagist.org).
 
-[Packagist](https://packagist.org) is the main [Composer](https://getpackagist.org) repository. It aggregates public [PHP](https://secure.php.net) packages installable with [Composer](https://getpackagist.org).
+[Packagist](https://packagist.org) is the main [Composer](https://getcomposer.org) repository. It aggregates public [PHP](https://secure.php.net) packages installable with [Composer](https://getcomposer.org).
 
-[<img alt="alfred-packagist" src="https://cloud.githubusercontent.com/assets/499192/21687373/4dbd7352-d369-11e6-8f54-f1dd66adae74.png" width="634">](https://getpackagist.org)
+[<img alt="alfred-packagist" src="https://cloud.githubusercontent.com/assets/499192/21687373/4dbd7352-d369-11e6-8f54-f1dd66adae74.png" width="634">](https://packagist.org)
 
 ## Install
 
