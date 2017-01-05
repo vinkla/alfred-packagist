@@ -19,24 +19,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>CA3B3761-43B5-4A2A-81BC-7224B15A669F</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>DD952006-F141-4965-96BB-26B2C0148E44</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 	</dict>
 	<key>createdby</key>
 	<string>Vincent Klaiber</string>
 	<key>description</key>
-	<string>Search for Composer packages with Packagist</string>
+	<string>A search for Composer packages with Packagist workflow for Alfred</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -65,15 +52,7 @@
 				<key>runningsubtext</key>
 				<string>Searching…</string>
 				<key>script</key>
-				<string>eval $(/usr/libexec/path_helper -s)
-eval "$($SHELL -i -l -c 'echo -e "\n"PATH=\"$PATH:\$PATH\""\n"' 2&gt;/dev/null | grep "^PATH=")"
-export PATH
-
-if command -v node &gt;/dev/null 2&gt;&amp;1; then
-	node index.js "$1"
-else
-	echo $'{"items":[{"title": "Couldn\'t find the `node` binary", "subtitle": "Symlink it to `/usr/local/bin`"}]}'
-fi</string>
+				<string>./node_modules/.bin/run-node index.js "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -113,76 +92,6 @@ fi</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>alfredfiltersresults</key>
-				<false/>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>keyword</key>
-				<string>packagist</string>
-				<key>queuedelaycustom</key>
-				<integer>3</integer>
-				<key>queuedelayimmediatelyinitially</key>
-				<true/>
-				<key>queuedelaymode</key>
-				<integer>0</integer>
-				<key>queuemode</key>
-				<integer>1</integer>
-				<key>runningsubtext</key>
-				<string>Searching…</string>
-				<key>script</key>
-				<string>eval $(/usr/libexec/path_helper -s)
-eval "$($SHELL -i -l -c 'echo -e "\n"PATH=\"$PATH:\$PATH\""\n"' 2&gt;/dev/null | grep "^PATH=")"
-export PATH
-
-if command -v node &gt;/dev/null 2&gt;&amp;1; then
-	node index.js "$1"
-else
-	echo $'{"items":[{"title": "Couldn\'t find the `node` binary", "subtitle": "Symlink it to `/usr/local/bin`"}]}'
-fi</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>subtext</key>
-				<string>Search for Composer packages</string>
-				<key>title</key>
-				<string>Packagist</string>
-				<key>type</key>
-				<integer>0</integer>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.scriptfilter</string>
-			<key>uid</key>
-			<string>CA3B3761-43B5-4A2A-81BC-7224B15A669F</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>DD952006-F141-4965-96BB-26B2C0148E44</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -195,20 +104,6 @@ fi</string>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
-		<key>CA3B3761-43B5-4A2A-81BC-7224B15A669F</key>
-		<dict>
-			<key>xpos</key>
-			<integer>10</integer>
-			<key>ypos</key>
-			<integer>130</integer>
-		</dict>
-		<key>DD952006-F141-4965-96BB-26B2C0148E44</key>
-		<dict>
-			<key>xpos</key>
-			<integer>150</integer>
-			<key>ypos</key>
-			<integer>130</integer>
-		</dict>
 		<key>E014D486-C255-4F75-A53A-8A0942A33E67</key>
 		<dict>
 			<key>xpos</key>
@@ -217,7 +112,9 @@ fi</string>
 			<integer>10</integer>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/vinkla/alfred-composer</string>
+	<string>https://github.com/vinkla/alfred-composer#readme</string>
 </dict>
 </plist>
