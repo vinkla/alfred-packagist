@@ -1,6 +1,6 @@
 {
   "name": "alfred-composer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A search for Composer packages with Packagist workflow for Alfred",
   "license": "MIT",
   "repository": "vinkla/alfred-composer",
