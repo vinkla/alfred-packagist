@@ -1,9 +1,9 @@
 {
-  "name": "alfred-composer",
+  "name": "alfred-packagist",
   "version": "1.0.0",
-  "description": "A search for Composer packages with Packagist workflow for Alfred",
+  "description": "Alfred workflow to search for PHP packages with Packagist",
   "license": "MIT",
-  "repository": "vinkla/alfred-composer",
+  "repository": "vinkla/alfred-packagist",
   "author": {
     "name": "Vincent Klaiber",
     "email": "hello@vinkla.com",

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.vinkla.composer</string>
+	<string>com.vinkla.packagist</string>
 	<key>connections</key>
 	<dict>
 		<key>9B5F5EE7-FCD6-4A9F-9CFC-CBCF5B44D4CB</key>
@@ -23,11 +23,11 @@
 	<key>createdby</key>
 	<string>Vincent Klaiber</string>
 	<key>description</key>
-	<string>A search for Composer packages with Packagist workflow for Alfred</string>
+	<string>Alfred workflow to search for PHP packages with Packagist</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Composer</string>
+	<string>Packagist</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -40,7 +40,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>composer</string>
+				<string>packagist</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -58,9 +58,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Search for Composer packages</string>
+				<string>Search for PHP packages</string>
 				<key>title</key>
-				<string>Composer</string>
+				<string>Packagist</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
