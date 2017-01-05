@@ -1,7 +1,27 @@
 {
-  "scripts": {
-    "test": "xo && ava"
+  "name": "alfred-composer",
+  "version": "0.0.0",
+  "description": "A search for Composer packages with Packagist workflow for Alfred",
+  "license": "MIT",
+  "repository": "vinkla/alfred-composer",
+  "author": {
+    "name": "Vincent Klaiber",
+    "email": "hello@vinkla.com",
+    "url": "vinkla.com"
   },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
   "dependencies": {
     "alfy": "^0.3.0"
   },
