@@ -8,7 +8,9 @@
 
 ## Install
 
-[Download and install the workflow.](https://github.com/vinkla/alfred-composer/releases/download/1.0.0/composer.alfredworkflow)
+```sh
+$ npm install --global alfred-composer
+```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
