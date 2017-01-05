@@ -1,6 +1,6 @@
 # alfred-composer [![Build Status](https://img.shields.io/travis/vinkla/alfred-composer/master.svg?style=flat)](https://travis-ci.org/vinkla/alfred-composer)
 
-> A search for [Composer](https://getcomposer.org/) packages with [Packagist](https://packagist.org/) workflow for [Alfred](https://www.alfredapp.com)
+> A search for [Composer](https://getcomposer.org/) packages with [Packagist](https://packagist.org/) workflow for [Alfred](https://www.alfredapp.com).
 
 [Packagist](https://packagist.org/) is the main [Composer](https://getcomposer.org/) repository. It aggregates public [PHP](https://secure.php.net/) packages installable with [Composer](https://getcomposer.org/).
 
