@@ -1,5 +1,5 @@
 # CHANGELOG
 
-## 1.0.0 (released 2016-08-31)
+## 1.0.0 (released 2017-01-05)
 
 - First stable version
