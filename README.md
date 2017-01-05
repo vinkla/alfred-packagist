@@ -24,8 +24,8 @@ In Alfred, type `packagist`, <kbd>Enter</kbd>, and your query, to search for pac
 
 ## Related
 
-- [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
 - [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator.
+- [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
 
 ## License
 
