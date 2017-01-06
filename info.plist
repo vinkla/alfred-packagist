@@ -4,6 +4,8 @@
 <dict>
 	<key>bundleid</key>
 	<string>com.vinkla.packagist</string>
+	<key>category</key>
+	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
 		<key>9B5F5EE7-FCD6-4A9F-9CFC-CBCF5B44D4CB</key>
