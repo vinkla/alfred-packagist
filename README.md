@@ -12,7 +12,7 @@
 $ npm install --global alfred-packagist
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack).*
+*Requires [Node.js](https://nodejs.org) 6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack).*
 
 ## Usage
 
@@ -24,6 +24,7 @@ In Alfred, type `packagist`, <kbd>Enter</kbd>, and your query, to search for pac
 
 ## Related
 
+- [alfred-kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator.
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
 
