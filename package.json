@@ -1,6 +1,6 @@
 {
   "name": "alfred-packagist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alfred workflow to search for PHP packages with Packagist",
   "license": "MIT",
   "repository": "vinkla/alfred-packagist",
