@@ -10,7 +10,7 @@
     "url": "vinkla.com"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=9"
   },
   "scripts": {
     "test": "xo && ava",
@@ -23,7 +23,7 @@
     "info.plist"
   ],
   "dependencies": {
-    "alfy": "^0.6.0"
+    "alfy": "^0.7.0"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
