@@ -3,7 +3,7 @@
 const alfy = require('alfy');
 
 (async () => {
-  const data = await alfy.fetch('https://packagist.org/search.json', {
+  const data = await alfy.fetch('https://repo.packagist.org/search.json', {
     query: {
       q: alfy.input
     }
