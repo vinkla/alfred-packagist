@@ -1,4 +1,4 @@
-# alfred-packagist [![Build Status](https://img.shields.io/travis/vinkla/alfred-packagist/master.svg?style=flat)](https://travis-ci.org/vinkla/alfred-packagist)
+# alfred-packagist [![Build Status](https://badgen.net/travis/vinkla/alfred-packagist/master)](https://travis-ci.org/vinkla/alfred-packagist)
 
 > [Alfred](https://www.alfredapp.com) workflow to search for [PHP](https://secure.php.net) packages with [Packagist](https://packagist.org).
 
