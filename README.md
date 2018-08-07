@@ -12,7 +12,7 @@
 $ npm install --global alfred-packagist
 ```
 
-*Requires [Node.js](https://nodejs.org) 9+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack).*
+*Requires [Node.js](https://nodejs.org) 10+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack).*
 
 ## Usage
 

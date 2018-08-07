@@ -10,7 +10,7 @@
     "url": "vinkla.com"
   },
   "engines": {
-    "node": ">=9"
+    "node": ">=10"
   },
   "scripts": {
     "test": "xo && ava",
