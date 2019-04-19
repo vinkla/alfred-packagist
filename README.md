@@ -24,6 +24,7 @@ In Alfred, type `packagist`, <kbd>Enter</kbd>, and your query, to search for pac
 
 ## Related
 
+- [alfred-emoji](https://github.com/vinkla/alfred-emoji) - Find emoji by name or keyword.
 - [alfred-kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
 
