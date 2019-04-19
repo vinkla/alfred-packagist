@@ -20,6 +20,7 @@ In Alfred, type `packagist`, <kbd>Enter</kbd>, and your query, to search for pac
 
 - Select a package and press <kbd>Enter</kbd> to go to its GitHub repo.<br>
 - Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to go to its Packagist page.<br>
+- Hold <kbd>Ctrl</kbd> when pressing <kbd>Enter</kbd> to copy the package name to the clipboard.
 - Press <kbd>Shift</kbd> to view its README in Quick Look.
 
 ## Related

@@ -16,6 +16,10 @@ test('main', async t => {
       {
         arg: 'https://packagist.org/packages/vinkla/hashids',
         subtitle: 'Open the Packagist page instead of the GitHub repo'
+      },
+      ctrl: {
+        arg: 'vinkla/hashids',
+        subtitle: 'Copy package name'
       }
     },
     quicklookurl: 'https://github.com/vinkla/laravel-hashids#readme'

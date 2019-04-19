@@ -9,18 +9,22 @@ const alfy = require('alfy');
     }
   });
 
-  const items = data.results.map(x => {
+  const items = data.results.map(pkg => {
     return {
-      title: x.name,
-      subtitle: x.description,
-      arg: x.repository || x.url,
+      title: pkg.name,
+      subtitle: pkg.description,
+      arg: pkg.repository || pkg.url,
       mods: {
         alt: {
-          arg: x.url,
+          arg: pkg.url,
           subtitle: 'Open the Packagist page instead of the GitHub repo'
+        },
+        ctrl: {
+          arg: pkg.name,
+          subtitle: 'Copy package name'
         }
       },
-      quicklookurl: x.repository && `${x.repository}#readme`
+      quicklookurl: pkg.repository && `${pkg.repository}#readme`
     };
   });
 
