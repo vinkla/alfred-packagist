@@ -20,6 +20,16 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2B8498E3-2EEC-4C0A-BFC8-7A89772DC9B8</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -37,6 +47,10 @@
 			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -94,11 +108,35 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>2B8498E3-2EEC-4C0A-BFC8-7A89772DC9B8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>2B8498E3-2EEC-4C0A-BFC8-7A89772DC9B8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>190</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
 		<key>9B5F5EE7-FCD6-4A9F-9CFC-CBCF5B44D4CB</key>
 		<dict>
 			<key>xpos</key>
@@ -109,7 +147,7 @@
 		<key>E014D486-C255-4F75-A53A-8A0942A33E67</key>
 		<dict>
 			<key>xpos</key>
-			<integer>150</integer>
+			<integer>190</integer>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
