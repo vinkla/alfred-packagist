@@ -6,8 +6,7 @@
   "repository": "vinkla/alfred-packagist",
   "author": {
     "name": "Vincent Klaiber",
-    "email": "hello@doubledip.se",
-    "url": "doubledip.se"
+    "email": "hello@doubledip.se"
   },
   "engines": {
     "node": ">=10"
