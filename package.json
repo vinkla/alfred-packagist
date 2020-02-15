@@ -35,6 +35,9 @@
     "ava": "^2.2.0",
     "xo": "^0.26.0"
   },
+  "prettier": {
+    "singleQuote": true
+  },
   "xo": {
     "space": true
   }
