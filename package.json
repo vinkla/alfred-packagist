@@ -33,7 +33,7 @@
   "devDependencies": {
     "alfy-test": "^0.4.0",
     "ava": "^2.2.0",
-    "xo": "^0.27.2"
+    "xo": "^0.28.0"
   },
   "prettier": {
     "singleQuote": true
