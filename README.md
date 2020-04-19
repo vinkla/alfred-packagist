@@ -30,4 +30,4 @@ In Alfred, type `packagist`, <kbd>Enter</kbd>, and your query, to search for pac
 
 ## License
 
-[MIT](LICENSE) © [Vincent Klaiber](https://doubledip.se)
+[MIT](LICENSE) © [Vincent Klaiber](https://vinkla.dev/)
