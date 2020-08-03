@@ -23,11 +23,6 @@ In Alfred, type `packagist`, <kbd>Enter</kbd>, and your query, to search for pac
 - Hold <kbd>Ctrl</kbd> when pressing <kbd>Enter</kbd> to copy the package name to the clipboard.
 - Press <kbd>Shift</kbd> to view its README in Quick Look.
 
-## Related
-
-- [alfred-kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
-- [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
-
 ## License
 
 [MIT](LICENSE) © [Vincent Klaiber](https://vinkla.dev/)
