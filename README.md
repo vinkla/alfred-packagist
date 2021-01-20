@@ -22,7 +22,3 @@ In Alfred, type `packagist`, <kbd>Enter</kbd>, and your query, to search for pac
 - Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to go to its Packagist page.<br>
 - Hold <kbd>Ctrl</kbd> when pressing <kbd>Enter</kbd> to copy the package name to the clipboard.
 - Press <kbd>Shift</kbd> to view its README in Quick Look.
-
-## License
-
-[MIT](LICENSE) © [Vincent Klaiber](https://vinkla.dev/)
