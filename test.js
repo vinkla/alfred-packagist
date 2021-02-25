@@ -1,5 +1,5 @@
-import test from 'ava';
-import alfyTest from 'alfy-test';
+const test = require('ava');
+const alfyTest = require('alfy-test');
 
 test('main', async t => {
   const alfy = alfyTest();
