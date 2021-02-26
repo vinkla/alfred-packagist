@@ -4,7 +4,7 @@
 
 [Packagist](https://packagist.org) is the main [Composer](https://getcomposer.org) repository. It aggregates public [PHP](https://secure.php.net) packages installable with [Composer](https://getcomposer.org).
 
-[<img alt="alfred-packagist" src="https://cloud.githubusercontent.com/assets/499192/21687373/4dbd7352-d369-11e6-8f54-f1dd66adae74.png" width="634">](https://packagist.org)
+[<img alt="alfred-packagist" src="https://user-images.githubusercontent.com/499192/109269690-24120200-780d-11eb-9acd-fa532fd6258a.png" width="634">](https://packagist.org)
 
 ## Install
 
